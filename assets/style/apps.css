@@ -1,0 +1,62 @@
+body {
+	background: linear-gradient(#7300FC 0%, #E200FC 40%, #FF00C1 100%)
+}
+.profile {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 90px;
+}
+.profileimage {
+	width: 200px;
+}
+.profile h2 {
+	color: #ffff;
+}
+.profile h4 {
+	color: #ffff;
+	transform: translateY(-10px);
+}
+.penjurusan {
+	background-color: #ffff;
+}
+.mapel {
+	background: linear-gradient(#fffeff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+	padding-bottom: 200px;
+	padding-top: 55px;
+}
+.Dibuatoleh h1 {
+	color: #ffff;
+}
+.Dibuatoleh {
+	padding-top: 55px;
+}
+.medsos {
+	padding-top: 55px;
+}
+.footer {
+	background-color: #ffff;
+	padding-bottom: 20px;
+}
+.medsos a {
+	color: black;
+	font-size: 30px;
+}
+.row {
+	padding: 0px 20px;
+}
+.datasiswa {
+	color: white;
+}
+.datasiswa {
+	padding-top: 55px;
+}
+.struktur {
+	background-color: #fff;
+	padding-bottom: 55px;
+	padding-top: 55px;
+	align-items: center;
+	justify-content: center;
+}
+
